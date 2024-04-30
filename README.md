@@ -1,6 +1,6 @@
 # CS6004 Assignment PA4: Transform Me if You Can
 ## Aditya Sriram (200070004), Shashank Balaji (200070043)
-[###### Link to this repository](https://github.com/aweditya/cs6004-pa4/tree/main)
+[Link to this repository](https://github.com/aweditya/cs6004-pa4/tree/main)
 
 ## Assignment Objective
 1. Generate result for any analysis (past analyses or existing analysis in Soot). For example, null-check analysis to remove null-checks from a program.
