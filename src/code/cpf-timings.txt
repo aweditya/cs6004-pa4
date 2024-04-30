@@ -1,0 +1,78 @@
+On system
+Without CPF
+real	0m30.365s
+user	0m24.668s
+sys	0m6.369s
+
+real	0m30.280s
+user	0m24.383s
+sys	0m6.537s
+
+real	0m30.178s
+user	0m24.810s
+sys	0m5.996s
+
+real	0m30.240s
+user	0m24.696s
+sys	0m6.279s
+
+real	0m31.016s
+user	0m25.243s
+sys	0m6.364s
+
+With CPF
+real	0m30.113s
+user	0m24.492s
+sys	0m6.211s
+
+real	0m30.169s
+user	0m24.483s
+sys	0m6.334s
+
+real	0m30.054s
+user	0m24.602s
+sys	0m6.085s
+
+real	0m29.907s
+user	0m24.185s
+sys	0m6.295s
+
+real	0m30.157s
+user	0m24.659s
+sys	0m6.095s
+
+On OpenJ9
+With CPF
+real	16m19.797s
+user	16m11.480s
+sys	0m8.264s
+
+real	16m7.159s
+user	15m58.765s
+sys	0m8.361s
+
+real	16m15.395s
+user	16m7.149s
+sys	0m8.216s
+
+real	16m27.191s
+user	16m19.110s
+sys	0m8.028s
+
+Without CPF
+real	16m19.797s
+user	16m11.480s
+sys	0m8.264s
+
+real	16m7.159s
+user	15m58.765s
+sys	0m8.361s
+
+real	16m15.395s
+user	16m7.149s
+sys	0m8.216s
+
+real	16m27.191s
+user	16m19.110s
+sys	0m8.028s
+
